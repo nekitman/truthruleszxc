@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+.title {
+  text-align: center;
+  color: red;
+}
+.main_texs {
+  text-align: center;
+}
+.pic img{
+  position: relative;
+  top:50px;
+left:790px;
+  width: 300px;
+  height: 400px;
+}
+.zxc{
+  top:40px;
+  position: relative;
+  text-align: center;
+  font-size: 45px;
+}
